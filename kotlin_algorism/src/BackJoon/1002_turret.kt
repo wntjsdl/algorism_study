@@ -17,7 +17,6 @@ fun main(args: Array<String>){
         val x2 = st.nextToken().toDouble()
         val y2 = st.nextToken().toDouble()
         val r2 = st.nextToken().toDouble()
-//        println("${x1}${y1}${r1}${x2}${y2}${r2}")
 
         if(x1==x2 && y1==y2){
             if(r1==r2)
